@@ -1,0 +1,39 @@
+.navbar{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:20px 60px;
+
+background:#6a1b9a;
+
+color:white;
+
+}
+
+.navbar ul{
+
+display:flex;
+
+list-style:none;
+
+gap:30px;
+
+}
+
+.navbar li{
+
+cursor:pointer;
+
+font-size:18px;
+
+}
+
+.navbar li:hover{
+
+color:gold;
+
+}
